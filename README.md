@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Vaibhav Sinha and I'm a final year student at IIT BHU Varanasi and a tech enthusiast, from Varanasi, Uttar Pradesh.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2001<br>📚 I'm currently learning building scalable web apps and databases<br>
 
 ###
 
